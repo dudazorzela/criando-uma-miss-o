@@ -5,6 +5,7 @@
 --cor-destaque: #2BDEFD;
 --cor-texto: #e0f005;
 }
+
 body {
 background-color: var(--cor-fundo);
 color: var(--cor-texto);
