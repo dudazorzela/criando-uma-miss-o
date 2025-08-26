@@ -1,11 +1,10 @@
 :root{
---cor-fundo: #222 ;
---cor-principal: #050d5a ;
---cor-secundaria: #3148f5;
---cor-destaque: #2BDEFD;
---cor-texto: #e0f005;
+--cor-fundo: #fffff0 ;
+--cor-principal: #fffdd0;
+--cor-secundaria: #cd7f32;
+--cor-destaque: #ce9f71;
+--cor-texto: #ddc7b2;
 }
-
 body {
 background-color: var(--cor-fundo);
 color: var(--cor-texto);
@@ -14,7 +13,6 @@ justify-content: center;
 align-items: center;
 min-height: 100vh;
 }
-
 .caixa-principal{
 background-color: var(--cor-principal);
 width: 90%;
