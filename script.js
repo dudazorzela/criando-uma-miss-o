@@ -86,7 +86,7 @@ atual++;
 mostraPergunta();
 }
 function mostraResultado() {
-caixaPerguntas.textContent = "Em 2049...";
+caixaPerguntas.textContent = "Em 2025...";
 textoResultado.textContent = historiaFinal;
 caixaAlternativas.textContent = "";
 }
